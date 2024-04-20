@@ -5,3 +5,14 @@
 - Version Uno
 - Version Dos
 - Version Tre
+
+```python
+def hola_mundo():
+    print("Hola, mundo!")
+```
+|si | no|~~:P~~|
+|---|---|---|
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+
+[Github](https://github.com/xXThanatosXx/Curso-Explorador)
