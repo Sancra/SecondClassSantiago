@@ -1,3 +1,3 @@
 # SecondClassSantiago
-## _Creación de repositorio y manejo de Marck Down._
+## Creación de repositorio y manejo de Marck Down.
 ### Titulo Dos
