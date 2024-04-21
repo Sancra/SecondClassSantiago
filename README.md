@@ -18,5 +18,9 @@ def hola_mundo():
 [Github](https://github.com/xXThanatosXx/Curso-Explorador)
 
 <p align="center">
-<img src="images.png" height="100">
+<img src="/LOGOS/descarga.jpg" height="320">
+</p>
+
+<p align="center">
+<img src="./LOGOS/images.png" height="320">
 </p>
