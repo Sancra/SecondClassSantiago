@@ -16,3 +16,7 @@ def hola_mundo():
 | 4 | 5 | 6 |
 
 [Github](https://github.com/xXThanatosXx/Curso-Explorador)
+
+<p align="center">
+<img src="images.png" height="100">
+</p>
